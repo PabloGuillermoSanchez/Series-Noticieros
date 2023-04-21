@@ -5,3 +5,5 @@ SERIES DE TV
 3 - The tree stoges
 4 - Simon y Simon
 5 - Hill Street Blues
+6 - E.R.
+7 - Trampero John
