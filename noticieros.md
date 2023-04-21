@@ -5,3 +5,5 @@ NOTICIEROS DEL 12
 3 - Arriba Cordoba
 4 - Teledoce
 5 - Tres a las Nueve
+6 - Teleinforme 12
+7 - Monica Presenta
