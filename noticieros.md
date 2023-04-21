@@ -4,4 +4,4 @@ NOTICIEROS DEL 12
 2 - El informe YA
 3 - Arriba Cordoba
 4 - Teledoce
-5 - Noticiero 12
+5 - Tres a las Nueve
