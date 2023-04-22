@@ -7,3 +7,5 @@ SERIES DE TV
 5 - Hill Street Blues
 6 - E.R.
 7 - Trampero John
+8 - Granjero Ultimo Modelo
+9 - Hart to Hart
